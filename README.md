@@ -8,7 +8,7 @@
 
 </h1>
 
-# <h1 align="center" id="heading"># Iris
+# <h1 align="center" id="heading">Iris
 </h1>
 
 ### PROJECT TITLE: "Iris Bloom: A Streamlit-powered Flower Prediction App"
