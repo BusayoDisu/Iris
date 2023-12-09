@@ -24,3 +24,5 @@ In the realm of botanical studies, there is a growing need for accessible and us
 This project addresses this need by developing 'FloralForecast,' a Streamlit-powered application utilizing a Random Forest Classifier.
 
 Link to app: https://zpmdvubfmdise2mpvnsbre.streamlit.app/
+
+Link to the project:https://colab.research.google.com/drive/1HqnllSolDqHZfoR1kPbGZ4ne179y1hJD
